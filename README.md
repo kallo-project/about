@@ -3,3 +3,7 @@
   <br />
   Supervise students at ease to ensure a fair learning environment for everyone.
 </p>
+
+## About
+## Installation
+## Deploying/Hosting
