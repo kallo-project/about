@@ -5,5 +5,3 @@
 </p>
 
 ## About
-## Installation
-## Deploying/Hosting
