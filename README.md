@@ -5,6 +5,11 @@
   which will lead to a much more productive classroom and a fair learning environment for everyone.
 </p>
 
+----
+[https://youtu.be/ZeVpH6e0vLA](https://youtu.be/ZeVpH6e0vLA)
+
+WARNING: Kallo is NOT for commercial use.
+
 ### Components
 - [kallo-backend](https://github.com/kallo-project/kallo-backend) - Back-end
 - [kallo-student-extension](https://github.com/kallo-project/kallo-student-extension) - Student Chrome extension
