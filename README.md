@@ -8,7 +8,7 @@
 ----
 [https://youtu.be/ZeVpH6e0vLA](https://youtu.be/ZeVpH6e0vLA)
 
-WARNING: Kallo is NOT for commercial use.
+**WARNING:** Kallo is NOT for commercial use.
 
 ### Components
 - [kallo-backend](https://github.com/kallo-project/kallo-backend) - Back-end
